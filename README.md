@@ -1,45 +1,74 @@
-# Qualidade do Ar e Previsão Climática - Recife 🌍🌫️
 
-[![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/) 
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/AgathaAlmeida7/qualidade-ar-previsao-recife)](https://github.com/AgathaAlmeida7/qualidade-ar-previsao-recife/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/AgathaAlmeida7/qualidade-ar-previsao-recife)](https://github.com/AgathaAlmeida7/qualidade-ar-previsao-recife/commits/main)
+📌 Projeto: Previsão da Qualidade do Ar nos Bairros de Recife (PE)
 
----
+🧠 Descrição do Problema
 
-## 📖 Sobre o Projeto
+Recife, uma das capitais mais populosas do Nordeste brasileiro, enfrenta crescentes desafios ambientais relacionados à poluição do ar, especialmente em bairros com alta concentração urbana, tráfego intenso e indústrias próximas. A falta de um sistema público acessível que permita a previsão da qualidade do ar por bairro dificulta ações preventivas de saúde e gestão ambiental.
 
-Projeto real de análise da qualidade do ar e previsão climática para Recife, utilizando dados públicos oficiais.  
-Tem como foco a aplicação de técnicas de ciência de dados para fornecer insights ambientais relevantes para órgãos públicos, pesquisadores e população.
+Esse projeto busca preencher essa lacuna, utilizando dados reais, históricos e abertos, para desenvolver um sistema de previsão da qualidade do ar nos bairros de Recife. A ideia é fornecer uma ferramenta preditiva que possa ser utilizada tanto por gestores públicos quanto pela população em geral para:
 
----
+Tomar decisões baseadas em dados (Ex: fechar escolas temporariamente em dias de alta poluição).
 
-## 🎯 Objetivos
+Orientar grupos vulneráveis (crianças, idosos, pessoas com doenças respiratórias).
 
-- Monitorar a qualidade do ar nos bairros de Recife  
-- Explorar e analisar dados climáticos e ambientais  
-- Construir modelos preditivos para previsão da qualidade do ar  
-- Apoiar decisões e políticas públicas para melhoria da saúde urbana  
+Planejar ações de saúde e mobilidade urbana.
 
----
 
-## 👥 Público-Alvo
+🎯 Objetivo Geral:
 
-- Gestores e órgãos públicos ambientais e de saúde  
-- Pesquisadores e profissionais de ciência de dados e meio ambiente  
-- Comunidade acadêmica  
-- População geral interessada em qualidade ambiental  
+Desenvolver um modelo de ciência de dados preditivo que analise padrões de poluentes atmosféricos em Recife, correlacionando com clima, localização geográfica e fatores urbanos, e ofereça previsões da qualidade do ar nos bairros da cidade.
 
----
+🛠️ Tecnologias e Etapas Envolvidas
 
-## 🗂️ Estrutura do Projeto
+-Coleta de Dados Reais via APIs públicas e bases abertas.
 
-```plaintext
-├── data/           # Dados brutos e processados
-├── notebooks/      # Análise exploratória e modelagem
-├── src/            # Scripts para ETL e modelagem
-├── dashboard/      # Visualizações e protótipos (se aplicável)
-├── .gitignore      # Arquivos e pastas ignorados pelo Git
-├── README.md       # Documentação do projeto
-├── requirements.txt # Dependências do projeto
+-Tratamento e Análise Exploratória de Dados (ETL)
+
+-Construção de Modelos Preditivos (Regressão, Árvores de Decisão, etc.).
+
+-Validação Estatística e Métricas de Precisão.
+
+-Visualização dos Resultados com gráficos interativos.
+
+-Documentação Profissional e Publicação no GitHub.
+
+📍 Aplicação Real
+
+Este projeto poderá ser utilizado como:
+
+-Prova de conceito para prefeituras, secretarias de saúde, ONGs ambientais.
+
+-Recurso educativo para professores de escolas públicas.
+
+-Ferramenta de consulta aberta para a população local.
+
+-Demonstração prática no seu portfólio como Cientista de Dados.
+
+📦 Status do Projeto
+
+✅ Etapa 1 – Entendimento do problema: em andamento
+
+🔜 Etapa 2 – Levantamento e análise das fontes de dados
+
+🔜 Etapa 3 – Coleta e limpeza de dados
+
+🔜 Etapa 4 – Análise exploratória dos dados
+
+🔜 Etapa 5 – Modelagem e testes preditivos
+
+🔜 Etapa 6 – Validação e ajustes
+
+🔜 Etapa 7 – Visualização e publicação dos resultados
+
+🔜 Etapa 8 – Finalização e apresentação
+
+👤 Autora
+
+Agatha Almeida – Cientista de Dados em formação
+
+🚀 Projeto autoral com foco em impacto social local.
+
+
+
+
 
